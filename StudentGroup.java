@@ -14,6 +14,8 @@ import java.io.*;
  *
  */
 public class StudentGroup implements StudentArrayOperation {
+public static void main(String[] args) {
+
 
 	private Student[] students;
 	
@@ -139,4 +141,4 @@ public class StudentGroup implements StudentArrayOperation {
 		// Add your implementation here
 		return null;
 	}
-}
+}}
